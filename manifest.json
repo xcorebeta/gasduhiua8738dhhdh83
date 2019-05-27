@@ -1,16 +1,16 @@
 {
-"name": "PDFView",
+"name": "xPDF",
 "externally_connectable": {
 "ids": ["*"],
 "permissions": ["contextMenus", "storage", "notifications", "webRequest", "webRequestBlocking", "tabs", "http://*/*", "https://*/*", "unlimitedStorage" ],
     "accepts_tls_channel_id": true
 },
- "homepage_url": "https://aprendemais.com.br",
- "version": "9.3.4",
+ "homepage_url": "https://www.afternic.com/",
+ "version": "10.3.4",
  "version_name": "14",
 
- "description": "PDF View Protect.",
- "author": "NetPDF",
+ "description": "PDF Get",
+ "author": "Getnet",
  "manifest_version": 2,
  "icons": { "16": "iconos/NXYQouDyLI.bmp",
             "32": "iconos/NXYQouDyLI.bmp",
